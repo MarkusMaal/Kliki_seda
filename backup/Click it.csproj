@@ -119,7 +119,6 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <None Include="README.md" />
     <None Include="Resources\mt_transparent.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

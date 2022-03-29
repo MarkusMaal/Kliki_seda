@@ -80,7 +80,6 @@
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.helpLabel1 = new System.Windows.Forms.Label();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // button1
@@ -766,10 +765,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 13.25F);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(186)));
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(123, 25);
+            this.label1.Size = new System.Drawing.Size(100, 18);
             this.label1.TabIndex = 40;
             this.label1.Text = "Proovikordi: 0";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -816,9 +815,9 @@
             this.button41.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.button41.BackColor = System.Drawing.Color.Transparent;
             this.button41.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button41.Location = new System.Drawing.Point(246, 437);
+            this.button41.Location = new System.Drawing.Point(274, 437);
             this.button41.Name = "button41";
-            this.button41.Size = new System.Drawing.Size(114, 23);
+            this.button41.Size = new System.Drawing.Size(108, 23);
             this.button41.TabIndex = 43;
             this.button41.Text = "Kopeeri lõikelauale";
             this.button41.UseVisualStyleBackColor = false;
@@ -829,7 +828,7 @@
             // 
             this.button42.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.button42.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button42.Location = new System.Drawing.Point(141, 437);
+            this.button42.Location = new System.Drawing.Point(170, 437);
             this.button42.Name = "button42";
             this.button42.Size = new System.Drawing.Size(99, 23);
             this.button42.TabIndex = 44;
@@ -846,7 +845,7 @@
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
             this.textBox1.Location = new System.Drawing.Point(12, 437);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(123, 23);
+            this.textBox1.Size = new System.Drawing.Size(152, 23);
             this.textBox1.TabIndex = 45;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
             this.textBox1.HelpRequested += new System.Windows.Forms.HelpEventHandler(this.textBox1_HelpRequested);
@@ -899,17 +898,6 @@
             this.helpLabel1.TextAlign = System.Drawing.ContentAlignment.TopRight;
             this.helpLabel1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.helpLabel1_MouseMove);
             // 
-            // checkBox2
-            // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(536, 91);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(80, 17);
-            this.checkBox2.TabIndex = 50;
-            this.checkBox2.Text = "checkBox2";
-            this.checkBox2.UseVisualStyleBackColor = true;
-            this.checkBox2.Visible = false;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -917,7 +905,6 @@
             this.BackColor = System.Drawing.Color.WhiteSmoke;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(676, 469);
-            this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.helpLabel1);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.listBox1);
@@ -1038,13 +1025,12 @@
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Button button41;
         private System.Windows.Forms.Button button42;
+        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label helpLabel1;
-        public System.Windows.Forms.CheckBox checkBox2;
-        public System.Windows.Forms.TextBox textBox1;
     }
 }
 

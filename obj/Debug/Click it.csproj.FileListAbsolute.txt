@@ -1,0 +1,27 @@
+c:\users\markus maal\documents\visual studio 2015\Projects\Click it\bin\Debug\Click it.exe.config
+c:\users\markus maal\documents\visual studio 2015\Projects\Click it\bin\Debug\Click it.exe
+c:\users\markus maal\documents\visual studio 2015\Projects\Click it\bin\Debug\Click it.pdb
+c:\users\markus maal\documents\visual studio 2015\Projects\Click it\obj\Debug\Click it.csprojResolveAssemblyReference.cache
+c:\users\markus maal\documents\visual studio 2015\Projects\Click it\obj\Debug\Click_it.Form1.resources
+c:\users\markus maal\documents\visual studio 2015\Projects\Click it\obj\Debug\Click_it.Properties.Resources.resources
+c:\users\markus maal\documents\visual studio 2015\Projects\Click it\obj\Debug\Click it.csproj.GenerateResource.Cache
+c:\users\markus maal\documents\visual studio 2015\Projects\Click it\obj\Debug\Click it.exe
+c:\users\markus maal\documents\visual studio 2015\Projects\Click it\obj\Debug\Click it.pdb
+C:\Users\Markus Maal\Documents\Visual Studio 2015\Projects\Click it\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Markus Maal\Documents\Visual Studio 2015\Projects\Click it\obj\Debug\Interop.WMPLib.dll
+C:\Users\Markus Maal\Documents\Visual Studio 2015\Projects\Click it\obj\Debug\Click it.csproj.ResolveComReference.cache
+C:\Users\Markus Maal\documents\visual studio 2015\Projects\Click it\obj\Debug\Click_it.Form2.resources
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\bin\Debug\Click it.exe.config
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\bin\Debug\Click it.exe
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\bin\Debug\Click it.pdb
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\obj\Debug\Click it.csproj.AssemblyReference.cache
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\obj\Debug\Interop.MediaPlayer.dll
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\obj\Debug\Interop.WMPLib.dll
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\obj\Debug\Click it.csproj.ResolveComReference.cache
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\obj\Debug\Click_it.Form1.resources
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\obj\Debug\Click_it.Form2.resources
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\obj\Debug\Click_it.Properties.Resources.resources
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\obj\Debug\Click it.csproj.GenerateResource.cache
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\obj\Debug\Click it.csproj.CoreCompileInputs.cache
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\obj\Debug\Click it.exe
+D:\Dokumendid ja muud failid\Visual Studio 2015\Projects\Click it\obj\Debug\Click it.pdb
