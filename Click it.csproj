@@ -119,6 +119,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <None Include="README-EN.MD" />
     <None Include="README.md" />
     <None Include="Resources\mt_transparent.png" />
   </ItemGroup>
